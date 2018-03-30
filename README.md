@@ -19,3 +19,8 @@ note: clear localStorage or change companyID to load the new data from web servi
 
 Hope you enjoy the app!!
 
+some screen shots are attached below.
+<br>
+<image height="700" src="" />
+
+
