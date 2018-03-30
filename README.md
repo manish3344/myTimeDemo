@@ -21,6 +21,10 @@ Hope you enjoy the app!!
 
 some screen shots are attached below.
 <br>
-<image height="700" src="" />
+<image height="700" src="https://github.com/manish3344/myTimeDemo/blob/master/assets/home_screen_capture.PNG" />
+<br>
+When clicked on each employee services button it shows up a doalog with list of services. variations with price
+<br>
+<image height="700" src="https://github.com/manish3344/myTimeDemo/blob/master/assets/ServicesModalCapture.PNG" />
 
 
