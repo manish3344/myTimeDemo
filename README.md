@@ -1,4 +1,7 @@
-# myTimeDemo
+# myTimeOfflineDemoApp
+
+This application uses ngStorage to show data without going to web services each time , so that it can work in offline
+-----
 supports Offline Mode by putting data tolocalStorage for the 1st time when application is loaded and serves from localStorage until the companyID changed or localStorage is deleted by clearing cache.
 
 Use a web server to run app and to start the application
